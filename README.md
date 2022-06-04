@@ -29,13 +29,14 @@ Bem vindo(a) ao meu perfil, meu nome é Kiara Victoria!!! <img src="https://www.
 <!--Personagem animada-->
 
   <div> 
-   <img align="right" alt="NegrescoDemon02-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202206/338224_6ypnospf.png">
+   <img align="right" alt="NegrescoDemon02-pic" height="250" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/820374881052000337/982472117528440862/Webp.net-gifmaker.gif?size=4096" >
    </div>
    
 <!--cobrinha e a frase -->
 
 <br>  
-> "Quando se quer muito alguma coisa sempre tem um preço a ser pago no final." 🔌🌎
+
+ "Quando se quer muito alguma coisa sempre tem um preço a ser pago no final." 🔌🌎
  
  <br>
 
