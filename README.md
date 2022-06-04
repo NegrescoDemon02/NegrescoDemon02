@@ -37,7 +37,7 @@
 <br>  
 > "Quando se quer muito alguma coisa sempre tem um preço a ser pago no final." 🔌🌎
  
-  ![Snake animation](https://github.com/Kiara177-pixel/Kiara177-pixel/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/NegrescoDemon02/NegrescoDemon02/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
