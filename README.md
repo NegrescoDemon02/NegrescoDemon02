@@ -38,7 +38,7 @@
  
  <br>
 
- ![Snake animation](https://github.com/NegrescoDemon02-pixel/NegrescoDemon02-pixel/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/NegrescoDemon02/NegrescoDemon02/blob/output/github-contribution-grid-snake.svg)
 
 
 
