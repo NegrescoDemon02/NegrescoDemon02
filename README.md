@@ -7,9 +7,11 @@ Bem vindo(a) ao meu perfil, meu nome é Kiara Victoria!!! <img src="https://www.
 - Ela/Dela
 
 <!--Informa linguagens que estudo-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=negrescodemon02&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/negrescodemon02">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=negrescodemon02&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=negrescodemon02&layout=compact&langs_count=7&theme=dracula"/>
+</div>
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=negrescodemon02&theme=dracula&hide_border=falso&local=pt-br)](https://git.io/streak-stats)  
 
