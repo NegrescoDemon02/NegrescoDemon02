@@ -33,12 +33,12 @@
    
 <!--cobrinha e a frase -->
 
-<div>
 <br>
-<br>
-"Quando se quer muito alguma coisa sempre tem um preço a ser pago no final." 🔌🌎
+<br>  
+> "Quando se quer muito alguma coisa sempre tem um preço a ser pago no final." 🔌🌎
  
- ![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Kiara177-pixel/Kiara177-pixel/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
  
