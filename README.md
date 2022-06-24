@@ -38,10 +38,11 @@ Bem vindo(a) ao meu perfil, meu nome é Kiara Victoria!!! <img src="https://www.
 
  "Quando se quer muito alguma coisa sempre tem um preço a ser pago no final." 🔌🌎
  
- <br>
+ <div align="center">
 
-![Snake animation](https://github.com/NegrescoDemon02/NegrescoDemon02/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
 
+</div>
 
 
  
