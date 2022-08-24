@@ -1,10 +1,10 @@
-# Meu perfil!
-Bem vindo(a) ao meu perfil, meu nome é Kiara Victoria!!! <img src="https://www.imagensanimadas.com/data/media/318/emoticon-e-smiley-computador-imagem-animada-0031.gif" border="0" alt="emoticon-e-smiley -computador-imagem-animada-0031"/></a>
+# Bem vindo(a) ao meu perfil, meu nome é Kiara Victoria!!! <img src="https://www.imagensanimadas.com/data/media/318/emoticon-e-smiley-computador-imagem-animada-0031.gif" border="0" alt="emoticon-e-smiley -computador-imagem-animada-0031"/></a>
 
 <!-- Inicio do perfil -->
 
 - Estudando area de TI
-- Ela/Dela
+- Plataforma Cursoemvideo: Estudando Python e JavaScript
+- Plataforma Udemy: Estudando MSQL, CSS, HTML e JS
 
 <!--Informa linguagens que estudo-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=negrescodemon02&show_icons=true&theme=dracula)
